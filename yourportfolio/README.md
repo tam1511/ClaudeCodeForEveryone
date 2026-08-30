@@ -16,8 +16,8 @@ Mọi lệnh trong file này đều đã được đối chiếu với tài li�
 6. [Cài Claude Code](#6-cài-claude-code)
 7. [Claude Code extension cho VS Code](#7-claude-code-extension-cho-vs-code)
 8. [Cheat sheet lệnh và phím tắt](#8-cheat-sheet-lệnh-và-phím-tắt)
-10. [OpenRouter và file .env](#10-openrouter-và-file-env)
-
+9. [OpenRouter và file .env](#10-openrouter-và-file-env)
+10. [Phương án miễn phí](#11-phương-án-miễn-phí)
 ---
 
 ## 1. Yêu cầu hệ thống
